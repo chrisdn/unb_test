@@ -1,3 +1,3 @@
 # testunb
 
-Open the myApp.xcworkspace in Xcode
+Start by opening the myApp.xcworkspace in Xcode. Update the endpoint and api-key in UnbluController.
